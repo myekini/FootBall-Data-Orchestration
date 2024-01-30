@@ -78,7 +78,6 @@ Ensure you have the following prerequisites installed:
 
 2. **Trigger the DAG on the Airflow UI.**
 
-Sure, let's fill in the data source, data processing, and data storage sections based on the provided code:
 
 ## 📊 Data Sources
 
