@@ -113,7 +113,6 @@ Note: The storage account key provided in the code is a placeholder. Make sure t
 
 Please adjust the storage options and file paths in the code based on your specific Azure Data Lake Storage configuration.
 
-Sure, let's fill in the orchestration and monitoring sections based on the provided DAG code:
 
 ## 🔄 Workflow Orchestration
 
